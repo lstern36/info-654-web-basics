@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background: url("images/background.jpg");
+    background: url("images/background.JPG");
     background-size: cover;
     color: var(--color-d);
     font-family: "BBH Sans Hegarty", sans-serif;
