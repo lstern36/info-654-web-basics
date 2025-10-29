@@ -120,39 +120,3 @@ table {
 tr, td {
     border: 1px solid var(--color-e);
 }
-
-/*
-@media (max-width: 1200px) {
-    .full-page {
-        flex-direction: column;
-    }
-    
-    .full-page > main {
-        margin: auto;
-    }
-    
-    nav ul, #home-link, header, footer {
-        font-size: 20px;
-    }
-    
-    #home-link {
-        width: 20%;
-    }
-    
-    nav {
-        width: 80%;
-    }
-    
-    nav ul, header {
-        flex-direction: row;
-        justify-content: space-between;
-    }
-    
-    footer {
-        position: fixed;
-        bottom: 0;
-        right: 10px;
-        text-align: right;
-    }
-}
-*/
